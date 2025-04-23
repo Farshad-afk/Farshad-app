@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title("😈Farshad Fakhrezy😈🙏🏿")
+st.title("😈Farshad😈🙏🏿")
 st.write(
-    "hanya manusa biasa 😈🙏🏿.")
+    "bukan adiksi tapi dedikasi🤑😈🙏🏿.")
