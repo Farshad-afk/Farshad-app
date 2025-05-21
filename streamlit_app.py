@@ -4,11 +4,11 @@ st.title("-bgshad")
 st.write("💲🎰 bukan adiksi tapi dedikasi🤑😈🙏🏿.")
 st.image("05_39_10_Gdillk_WMAAtPqx.jpg", width=200)
 
-st.title("Aplikasi Sederhana")
-st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
+st.title("Situs Gacor 777")
+st.header("Mengecek Angka")
 angka = st.number_input("Tulis Sebuah Angka:", value=0, step=1)
 
 if (angka % 2) == 0:
-  st.write(f"{angka} adalah Bilangan Genap")
+  st.write(f"{angka} Jackpot")
 else:
-  st.write(f"{angka} adalah Bilangan Ganjil")
+  st.write(f"{angka} Rugi Bandar")
