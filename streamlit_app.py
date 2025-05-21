@@ -9,6 +9,6 @@ st.header("Mengecek Angka")
 angka = st.number_input("Tulis Sebuah Angka:", value=0, step=1)
 
 if (angka % 2) == 0:
-  st.write(f" {angka} Kau Jackpot🤑💲🎰💰")
+  st.write(f" {angka} Rugi kau niga🙏🏿😈")
 else:
-  st.write(f"{angka} Rugi kau niga🙏🏿😈")
+  st.write(f"{angka} Kau Jackpot 🤑💰💲🎰")
