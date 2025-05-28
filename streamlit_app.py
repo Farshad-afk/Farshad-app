@@ -13,8 +13,8 @@ if (angka % 2) == 0:
 else:
   st.write(f"{angka} Kau Jackpot 🤑💰💲🎰")
 
-st.title("Aplikasi Sederhana")
 
+st.title("Aplikasi Sederhana")
 # Menggunakan layout kolom
 col1, col2 = st.columns(2)
 
